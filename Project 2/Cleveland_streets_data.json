@@ -1,0 +1,297 @@
+{
+  "Boulevard": [
+    "Lakeshore Boulevard", 
+    "Vernon Odom Boulevard", 
+    "Parkland Boulevard", 
+    "East Boulevard", 
+    "Milton Boulevard", 
+    "Country Club Boulevard", 
+    "South Milton Boulevard", 
+    "Chagrin Boulevard"
+  ], 
+  "Court": [
+    "Zenas Court"
+  ], 
+  "Arlington": [
+    "South Arlington"
+  ], 
+  "St.": [
+    "E. 30th St.", 
+    "W. Market St.", 
+    "2nd St. NW", 
+    "College St.", 
+    "East Pine St."
+  ], 
+  "Rd": [
+    "Friendsville Rd", 
+    "Medina Rd", 
+    "Buffham Rd", 
+    "Cedar Rd", 
+    "Harrisburg Westville Rd", 
+    "Lee Rd", 
+    "Brookpark Rd", 
+    "E Aurora Rd", 
+    "Mayfield Rd", 
+    "Aurora Rd", 
+    "Ridge Rd", 
+    "Greensburg Rd"
+  ], 
+  "Way": [
+    "Alfred Lerner Way", 
+    "Innovation Way"
+  ], 
+  "ave": [
+    "harvard ave"
+  ], 
+  "Circle": [
+    "Severance Circle", 
+    "Benjamin Circle", 
+    "Broadmoor Circle Northwest"
+  ], 
+  "Rd.": [
+    "Portage Line Rd.", 
+    "Coventry Rd."
+  ], 
+  "Paula": [
+    "Paula"
+  ], 
+  "Ridge": [
+    "South Ridge West"
+  ], 
+  "Lee": [
+    "Lee"
+  ], 
+  "Cedar": [
+    "Cedar"
+  ], 
+  "Dr": [
+    "Paul E. Brown Dr SE", 
+    "Eastpoint Dr", 
+    "Basquin Dr"
+  ], 
+  "Ave.": [
+    "Beall Ave.", 
+    "Euclid Ave.", 
+    "Valleyview Ave.", 
+    "Franklin Ave."
+  ], 
+  "Center": [
+    "Southpark Center"
+  ], 
+  "Lorain": [
+    "Lorain"
+  ], 
+  "Drive": [
+    "Sugar Tree Drive", 
+    "Landerbrook Drive", 
+    "Terrace Drive", 
+    "White Pond Drive", 
+    "Janik Drive", 
+    "Hilltop Drive", 
+    "Midway Drive", 
+    "Petrarca Drive", 
+    "Eastway Drive", 
+    "Eastpointe Drive", 
+    "Augusta Drive Southeast", 
+    "Williams Drive", 
+    "Leebrick Drive", 
+    "Staples Drive", 
+    "West Ridgewood Drive", 
+    "South Park Drive", 
+    "Senhauser Drive", 
+    "Ted Boyd Drive", 
+    "Magnolia Drive", 
+    "Johnston Drive", 
+    "Risman Drive", 
+    "Chiarucci Drive", 
+    "Theatre Drive", 
+    "Maple Drive"
+  ], 
+  "St": [
+    "N Professor St", 
+    "W Main St", 
+    "State St NW", 
+    "17th St NE", 
+    "Sycamore St"
+  ], 
+  "Mayfield": [
+    "Mayfield"
+  ], 
+  "Fleet": [
+    "Fleet"
+  ], 
+  "Parkway": [
+    "North Hayden Parkway", 
+    "Embassy Parkway", 
+    "Industrial Parkway", 
+    "Central Parkway"
+  ], 
+  "Road": [
+    "Mayfield Road", 
+    "Richmond Road", 
+    "Northfield Road", 
+    "Diagonal Road", 
+    "Jones Road", 
+    "Holland Road", 
+    "Cedar Road", 
+    "Greenwich Road", 
+    "East Bagley Road", 
+    "Lee Road", 
+    "Westchester Road", 
+    "Akron Peninsula Road", 
+    "sherrick Road Southeast", 
+    "Literary Road", 
+    "Caves Road", 
+    "Chardon Road", 
+    "Hudson Aurora Road", 
+    "Streetsboro Road", 
+    "Old Airport Road", 
+    "Cleve E Liverpool Road", 
+    "Stow Road", 
+    "South Pricetown Road", 
+    "South Cleveland-Massillon Road", 
+    "Ridge Road", 
+    "Hillside Road", 
+    "Lorain Road", 
+    "Waterloo Road", 
+    "Sheridan Road", 
+    "Cleveland Canton Road", 
+    "Canal Road", 
+    "Kirtland Chardon Road", 
+    "Loop Road", 
+    "East River Road", 
+    "Fulton Road", 
+    "Chillicothe Road", 
+    "Stanford Road", 
+    "Hobart Road", 
+    "Warren Road", 
+    "Edgerton Road", 
+    "South Taylor Road", 
+    "Pearl Road", 
+    "Boston Mills Road West", 
+    "Lake Road", 
+    "Sherrick Road Southeast", 
+    "Kungle Road", 
+    "Archwood Road", 
+    "Treaty Line Road", 
+    "Overlook Road"
+  ], 
+  "Blvd.": [
+    "Fairmount Blvd.", 
+    "Hilliard Blvd."
+  ], 
+  "Square": [
+    "Public Square", 
+    "Shaker Square"
+  ], 
+  "Fairmount": [
+    "Fairmount"
+  ], 
+  "14": [
+    "SR 14"
+  ], 
+  "Esplanade": [
+    "University Esplanade"
+  ], 
+  "Rauscher": [
+    "Rauscher"
+  ], 
+  "Street": [
+    "East 222nd Street", 
+    "East College Street", 
+    "Mount Pleasant Street NW", 
+    "4875 Tuscarawas Street West", 
+    "East Maple Street", 
+    "55th Street Northeast", 
+    "South Lincoln Street", 
+    "Aurora Street", 
+    "North Oviatt Street", 
+    "South Depeyster Street", 
+    "5057 Tuscarawas Street West", 
+    "18th Street Northeast", 
+    "West 76th Street", 
+    "West Lorain Street", 
+    "North Market Street", 
+    "West Market Street", 
+    "North Depeyster Street", 
+    "Woodland Street", 
+    "Front Street", 
+    "East 55th Street", 
+    "Stinaff Street", 
+    "West State Street", 
+    "38th Street Northwest", 
+    "Library Street", 
+    "East Market Street", 
+    "12th Street Northwest", 
+    "Superior Street", 
+    "North Maple Street", 
+    "East 185th Street", 
+    "19th Street Northeast", 
+    "Center Street East", 
+    "4905 Tuscarawas Street West", 
+    "North Main Street", 
+    "East 9th Street", 
+    "West 11th Street", 
+    "South Main Street", 
+    "East Summit Street", 
+    "East Main Street", 
+    "West 29th Street", 
+    "West 25th Street", 
+    "River Street", 
+    "8th Street Northeast", 
+    "E. Main Street"
+  ], 
+  "Blvd": [
+    "Beach Cliff Blvd", 
+    "Lakeshore Blvd", 
+    "Fairmount Blvd", 
+    "Van Aken Blvd", 
+    "Chestnut Blvd"
+  ], 
+  "Ave": [
+    "Bellfield Ave", 
+    "Euclid Ave", 
+    "7th Ave", 
+    "Erie Ave NW", 
+    "Broadway Ave", 
+    "Lakeside Ave", 
+    "Pleasant Ave"
+  ], 
+  "Avenue": [
+    "Harrisburg Avenue Northeast", 
+    "South Union Avenue", 
+    "Towpath Avenue Northwest", 
+    "Harvard Avenue", 
+    "Woodrow Avenue", 
+    "Maple Avenue Northeast", 
+    "Superior Avenue East", 
+    "Professor Avenue", 
+    "Madison Avenue", 
+    "Fox Avenue", 
+    "Lake Avenue", 
+    "Seymour Avenue", 
+    "Superior Avenue", 
+    "maple Avenue Northeast", 
+    "Montrose West Avenue", 
+    "Frank Avenue Northwest", 
+    "Sackett Avenue", 
+    "Euclid Avenue", 
+    "Plain Center Avenue Northeast", 
+    "Central Avenue Southeast", 
+    "Lorain Avenue", 
+    "Miller Avenue", 
+    "Market Avenue North", 
+    "Freedom Avenue Northwest", 
+    "Clark Avenue", 
+    "Stafford Avenue", 
+    "Prospect Avenue", 
+    "Broadway Avenue", 
+    "Lakeside Avenue", 
+    "Detroit Avenue", 
+    "Chester Avenue", 
+    "West Lakeside Avenue"
+  ], 
+  "Clair": [
+    "St. Clair"
+  ]
+}
